@@ -1,2 +1,2 @@
 # Cycraft-Invasion
-2D Shooting Game
+Minecraft 2D Shooting Game based of Java
